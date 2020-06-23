@@ -10,7 +10,7 @@ Haley Sorenson is a proud alumnus of the Tourism, Hospitality, and Event Managem
 
 The idea started as a joke in college; 
 > "Wouldn't it be funny if there was a satirical blog that taste-tested and rated frozen, single meals like a
-> foodie-influencer?" </>
+> foodie-influencer?"
 
 But after learning how to code in a variety of languages, how to create front-end visualizations, and how to compile and serve a database of information that consumers might find informative, it turned into an opportunity to create a tool that the public might find beneficial to their health and nutrition. Of course, we had to stay true to the original idea and include the satirical blog for humor's sake, but the importance of this data remains. Which of the 100's of single-serving, frozen meals abailable in grocery stores is THE best? Now the idea has come to life with expanded variables and an abundance of aggregate information with the hopes that more people can make data-informed decisions about what products they choose while asking themselves, "What's for dinner tonight?"
 
