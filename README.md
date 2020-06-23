@@ -13,7 +13,7 @@ The idea started as a joke in college; "Wouldn't it be funny if there was a sati
 ### Data Process
 Looking at the infinite amount of data available, compiling all of the necessary information was not going to be easy. Starting with a web scraping script using Python's Beautiful Soup, we found common microwave meal brand websites and scraped for nutritional information, ingredient lists, and included any buzzwords that brands may use in marketing campaigns for their products. 
 
-From there, all of the scraped data was compiled into a database to then referenced in visualizations tp compare brands, meals, and nutritional information in a truly transparent environment. Plus users can visualize which brands use the most buzzwords, which hold true to their claims, and make their own choices about which meals suit their needs.
+From there, all of the scraped data was compiled into a database to then reference in visualizations tp compare brands, meals, and nutritional information in a truly transparent environment. Plus users can visualize which brands use the most buzzwords, which hold true to their claims, and make their own choices about which meals suit their needs.
 
 ### Additional Resources
 Additional Resources are included within this project in order to help users draw conclusions about the healthiness of these products vs. standard nutritional guidelines from a variety of sources. Resources from the CDC, health.gov, Mayo Clinic, choosemyplate.org, and the USDA are available on the Resources Tab so users can feel compelled to make sure they are choosing proper dietary options for their personal attributes.
