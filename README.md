@@ -29,7 +29,7 @@ Brands Included in this Report:
 * Stouffer's
 * Amy's Kitchen
 * Swanson
-* Marie Calendar's
+* Marie Caleendar's
 * Michelina's
 * Hungry Man
 * Banquet
@@ -37,7 +37,7 @@ Brands Included in this Report:
 * Boston Market
 * Evol
 * Kashi
-* Saffron Road
+* Saffron Road  
 
 ## Data Visualization
 
@@ -52,3 +52,7 @@ Brands Included in this Report:
 ## Raw Data
 
 ## Links
+* Github
+* LinkedIn
+* Contact
+* More Info about Me
