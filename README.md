@@ -23,6 +23,21 @@ From there, all of the scraped data was compiled into a database to then referen
 Additional Resources are included within this project in order to help users draw conclusions about the healthiness of these products vs. standard nutritional guidelines from a variety of sources. Resources from the CDC, health.gov, Mayo Clinic, choosemyplate.org, and the USDA are available on the Resources Tab so users can feel compelled to make sure they are choosing proper dietary options for their personal attributes.
 
 ## Brand Pages
+Brands Included in this Report:
+* Lean Cuisine
+* Healthy Choice
+* Stouffer's
+* Amy's Kitchen
+* Swanson
+* Marie Calendar's
+* Michelina's
+* Hungry Man
+* Banquet
+* Smart Ones
+* Boston Market
+* Evol
+* Kashi
+* Saffron Roac
 
 ## Data Visualization
 
