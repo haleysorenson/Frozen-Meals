@@ -29,7 +29,7 @@ Brands Included in this Report:
 * Stouffer's
 * Amy's Kitchen
 * Swanson
-* Marie Caleendar's
+* Marie Caleender's
 * Michelina's
 * Hungry Man
 * Banquet
